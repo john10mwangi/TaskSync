@@ -1,2 +1,13 @@
-# TaskSync
-TaskSync is a Flutter-based task management application designed to showcase your expertise as a mobile developer. The project evaluates your ability to implement core app functionality, manage state effectively, and integrate native Android code using platform channels.
+# task_sync
+
+A new Flutter project.
+
+## Golden Tests
+
+Golden tests are already setup for this project. To run the tests and update the golden files, run:
+
+```bash
+flutter test --update-goldens
+```
+
+The golden test screenshots will be stored under `test/golden/`.
